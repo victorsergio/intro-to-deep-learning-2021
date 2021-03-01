@@ -1,2 +1,2 @@
 # weather-cnn
-Convolutional Neural Network - Lab
+Convolutional Neural Network - Dataset
