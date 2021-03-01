@@ -1,2 +1,2 @@
-# weather-cnn
-Convolutional Neural Network - Dataset
+# intro-to-deep-learning-2021
+Labs for Intro to Deep Learning lectures
